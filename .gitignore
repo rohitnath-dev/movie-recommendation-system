@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Model files
+*.pkl
+models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
